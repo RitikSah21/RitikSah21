@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 RITIK SAH here...</h1>
+<h1 align="center">Hello ! 👋 RITIK SAH here...</h1>
 
 ###
 
